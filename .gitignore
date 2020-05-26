@@ -1,3 +1,5 @@
 *.userData
 *.session
 *.jpg
+testing.py
+viewerGuiOld.py
