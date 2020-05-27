@@ -1,5 +1,6 @@
 *.userData
 *.session
 *.jpg
+.vscode
 testing.py
 viewerGuiOld.py
